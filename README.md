@@ -14,7 +14,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+
 # React Flashcards App
 
 This is a simple flashcards application built using React. It allows users to view questions, flip to see answers, and track their progress.
@@ -118,4 +118,3 @@ react-flashcards/
 * Component structuring
 * Handling user interaction
 * Using Bootstrap with React
->>>>>>> 476f63598d192cc9396909fd6cbc9bab37c3028c
